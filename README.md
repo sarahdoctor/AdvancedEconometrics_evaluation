@@ -1,4 +1,4 @@
-# Comparative study on Regression, Randomized Control Trial and Propensity Score Matching
+# Comparative study on Regression, Randomized Control Trial and Propensity Score Matching for Healthcare Analytics
 
 Several studies have claimed that smoking during pregnancy harms the growth of the fetus, thereby affecting the birthweight of the newborn child. 
 This study analyzes this exact impact through Regression, Randomized Control Trial and Propensity Score Matching and determines which method is most fit for this case.
